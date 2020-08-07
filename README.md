@@ -8,7 +8,7 @@ ___
 
 ### Installation:
 
-Running the script requires a valid Infura project (which you can create from here: https://infura.io/register), and for the **WEB3_INFURA_PROJECT_ID** environment variable to be set to that project_id. The only dependancy is [web3py](https://web3py.readthedocs.io/en/stable/) which may be installed with the miniconda [kitty-counter.yml](https://github.com/ajdonich/kitty-counter/blob/master/kitty-counter.yml) env file or with the pip [requirements.txt](https://github.com/ajdonich/kitty-counter/blob/master/requirements.txt) file. Miniconda can be downloaded and installed here: [Miniconda Installation Instructions](https://docs.conda.io/en/latest/miniconda.html), then from a terminal execute:
+Running the script requires a valid **mainnet** Infura project (which you can create from here: https://infura.io/register), and for the **WEB3_INFURA_PROJECT_ID** environment variable to be set to that project_id. The only dependancy is [web3py](https://web3py.readthedocs.io/en/stable/) which may be installed with the miniconda [kitty-counter.yml](https://github.com/ajdonich/kitty-counter/blob/master/kitty-counter.yml) env file or with the pip [requirements.txt](https://github.com/ajdonich/kitty-counter/blob/master/requirements.txt) file. Miniconda can be downloaded and installed here: [Miniconda Installation Instructions](https://docs.conda.io/en/latest/miniconda.html), then from a terminal execute:
 
 ```
 $ git clone https://github.com/ajdonich/kitty-counter.git
